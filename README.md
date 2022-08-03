@@ -3,8 +3,13 @@
 ![image](./introduction/shouye.png)
 功能
 ![image](./introduction/photo1.png)
+
 ![image](./introduction/order.png)
+
 ![image](./introduction/login.png)
+
+后台管理
+![image](./introduction/houtai.png)
 
 ## Project setup
 ```
